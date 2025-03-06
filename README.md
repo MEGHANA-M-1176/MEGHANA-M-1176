@@ -1,16 +1,19 @@
-## Hi there 👋
+ Hi there 👋
+🚀 My GitHub & LeetCode Stats 
 
-<!--
-**MEGHANA-M-1176/MEGHANA-M-1176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🏆 My LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Meghananamz?theme=dark)](https://leetcode.com/Meghananamz/)
+
+ 
+
+📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meghea&show_icons=true&theme=dark&count_private=true&hide=prs,issues)
+
+
+🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Meghea&theme=dark)
+
+
+
