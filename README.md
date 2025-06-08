@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - 🌱 I'm currently learning FullStack development 
 - 💻 Interested in c++
-- 📫 How to reach me: meghanamz863@gmail.com
+- 📫 How to reach me:meghanamz1111@gmail.com
 ## 🛠️ Languages I'm Learning
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -18,4 +18,4 @@
 
 ## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanamz863@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meghanamz1111@gmail.com)
