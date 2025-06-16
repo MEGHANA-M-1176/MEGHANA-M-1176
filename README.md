@@ -1,8 +1,10 @@
 # Hi there! 👋 I'm Meghana
+
 ## 🚀 About Me
 - 🌱 I'm currently learning FullStack development 
-- 💻 Interested in c++
-- 📫 How to reach me:meghanamz1111@gmail.com
+- 💻 Interested in C++
+- 📫 How to reach me: meghanamz1111@gmail.com
+
 ## 🛠️ Languages & Frameworks I'm Learning
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -17,7 +19,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MEGHANA-M-1176&show_icons=true&theme=dark)
 
 ## 🚀 Recent Projects
-- **Travel Website** - Built with Node.js backend for booking and travel management
+
+- **🧠 OneTap Mood Journal (PWA)** – A Progressive Web App for quick and effortless mood tracking.  
+  Built with HTML, CSS, and JavaScript.  
+  📱 Features include mood tracking, optional notes, offline access, and mobile install support.  
+  🔗 [View Project on GitHub](https://github.com/MEGHANA-M-1176/mood-journal-app)
+
+- **🌍 Travel Website** – Built with Node.js backend for booking and travel management.
 
 ## 🤝 Connect with Me
 
