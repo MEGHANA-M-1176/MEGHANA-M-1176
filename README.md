@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 🌱 I'm currently learning FullStack development 
-- 💻 Interested in C++
 - 📫 How to reach me: meghanadevadiga111@gmail.com
 
 ## 🛠️ Languages & Frameworks I'm Learning
