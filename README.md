@@ -13,10 +13,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MEGHANA-M-1176&show_icons=true&theme=dark)
-
 ## 🚀 Recent Projects
 
 - **🧠 OneTap Mood Journal (PWA)** – A Progressive Web App for quick and effortless mood tracking.  
