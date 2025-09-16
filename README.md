@@ -1,3 +1,6 @@
+[![Achievement: Brain](https://img.shields.io/badge/Achievement-Brain-blueviolet?logo=brainly)](https://github.com/MEGHANA-M-1176/quotes-api)
+
+
 # Hi there! 👋 I'm Meghana
 
 ## 🚀 About Me
